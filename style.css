@@ -1,0 +1,12 @@
+/*my template Aug 2016*/
+h1 {
+    font-family: 'Harmattan', sans-serif;
+}
+
+/*container and row*/
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 320px;
+}
+
